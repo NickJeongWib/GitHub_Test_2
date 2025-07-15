@@ -9,5 +9,6 @@ public class Version_Reset : MonoBehaviour
     {
         Debug.Log("This A Commit");
         Debug.Log("This B Commit");
+        Debug.Log("This C Commit");
     }
 }
