@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Branch_1_Merge_Test : MonoBehaviour
 {
+    public GameObject Test;
+    public GameObject Test2;
+
     // Start is called before the first frame update
     void Start()
     {
