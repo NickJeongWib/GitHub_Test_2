@@ -9,4 +9,9 @@ public class Branch_1_Merge_Test : MonoBehaviour
     {
         Debug.Log("Branch_1_Merge_Test");
     }
+
+    void Test_Infl()
+    {
+        Debug.Log("충돌 테스트");
+    }
 }
